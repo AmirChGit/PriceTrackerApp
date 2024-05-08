@@ -1,0 +1,85 @@
+{
+  "node": {
+    "0a2e4d713475ea4699cc5e1908fb6b0817bfd4dc": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "f7722bc9826c58833a04d2fb4ce496709c77eb25": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "fa07d93dff0811dd76b47683ca2e8eb480436fd2": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "5344262b06aec7c085973ebae6e1994c2fc8d462": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "ad6ff11e0e51b71cdee2c01c09e275a98bb8ec4a": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "c96e5587b6bc1982af756a3e12895d23fbbed00e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "18f2c6bd38fc8729d0da75456ca6724de823bc3e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    },
+    "35cab0b98a6ef3cc46a947cb44622d6d45537783": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!",
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22addUserEmailToProduct%22%2C%22getAllProducts%22%2C%22getSimilarProducts%22%2C%22getProductById%22%2C%22scrapeAndStoreProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cscraper%5C%5Cindex.ts%22%2C%5B%22scrapeAmazonProduct%22%5D%5D%2C%5B%22D%3A%5C%5Crepository%5C%5CPriceTracker%5C%5Cprice-tracker%5C%5Csrc%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22sendEmail%22%2C%22generateEmailBody%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/products/[id]/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}
